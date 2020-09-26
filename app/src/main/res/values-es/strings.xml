@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poupanca</string>
+    <string name="Calcularcontafinal">calcular la factura final</string>
+    <string name="Vlrpessoa">valor por persona R$:</string>
+    <string name="contatotal">Cuenta total R$:</string>
+    <string name="taxaservico">tasa de servicio (10%) R$</string>
+    <string name="divideconta">Dividir cuenta por:</string>
+    <string name="Couvertartistico">couver artístico R$:</string>
+    <string name="Consumototal">Consumo total R$:</string>
+    <string name="BtnCal">Calcular</string>
+</resources>

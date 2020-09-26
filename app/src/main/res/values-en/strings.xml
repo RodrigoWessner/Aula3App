@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Savings</string>
+    <string name="Vlrinicial">Initial value</string>
+    <string name="AM">Monthly application</string>
+    <string name="TA">Application time</string>
+    <string name="Txa">Rate</string>
+    <string name="EmMeses">In months</string>
+    <string name="Vlrem">Value in R$ Ex:1700.00</string>
+    <string name="BtnCal">Calculate</string>
+    <string name="Consumototal">Total consumption R$:</string>
+    <string name="Couvertartistico">Artistic couver R$:</string>
+    <string name="divideconta">Divide account by:</string>
+    <string name="taxaservico">Service rate (10%) R$</string>
+    <string name="contatotal">Total bill R$:</string>
+    <string name="Vlrpessoa">Value per person R$:</string>
+    <string name="Calcularcontafinal">Calculate final bill</string>
+</resources>
